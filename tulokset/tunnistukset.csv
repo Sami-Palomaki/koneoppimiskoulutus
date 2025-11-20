@@ -1,0 +1,6 @@
+filename,bbox,ocr_raw,ocr_normalized,final_plate
+auto.jpg,"(137, 161, 713, 292)",,,
+auto1.jpg,"(56, 40, 189, 176)",,,
+test_auto.jpg,"(384, 455, 644, 531)",,,
+test_auto3.jpg,"(407, 408, 543, 454)",,,
+test_auto2.jpg,"(36, 162, 117, 195)",,,
