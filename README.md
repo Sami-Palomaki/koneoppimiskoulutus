@@ -102,6 +102,10 @@ model.train(
 
 ---
 
+Nyt siis tunnistus toimii periaatteessa, mutta se vaatisi suuremman määrän kuvia ja eepokkeja. Jos kuva ei ole suoraan edestäpäin, tekoälymalli todennäköisesti epäonnistuu. Toisaalta ohjelmat, jotka tarvitsevat rekisterikilven tunnistusta, saavat kuvan yleensä läheltä, edestä tai takaa, jolloin tunnistus onnistuu luotettavammin.
+
+---
+
 ## Lähteet
 - Ultralytics YOLOv8
 - Tesseract OCR
